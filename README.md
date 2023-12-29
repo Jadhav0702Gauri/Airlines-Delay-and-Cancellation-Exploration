@@ -1,6 +1,6 @@
 # Airlines-Delay-and-Cancellation-Exploration
 # Dataset
-This project explores a dataset that reports flights in the United States, including carriers, arrival and departure delays, and reasons for delays, from January 2006 to April 2008.
+This project explores a dataset that reports flights in the United States, including carriers, arrival and departure delays, and reasons for delays, from January 2003 to April 2023.
 
 The dataset has 338371 flight details with 21 features. The data ranges from January 2003 to April 2023.
 
