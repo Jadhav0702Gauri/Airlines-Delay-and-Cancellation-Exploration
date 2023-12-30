@@ -25,6 +25,10 @@ Also, a flight is considered delayed when its arrival delay is longer than 15 mi
 - Weather delays are highest in December, January, and February, correlating with winter storms.
 - Southwest has the least delayed, diverted, and cancelled flights, while Allegiant Air has the most cancelled flights.
 
+# Key Insights for Presentation
+
+In the presentation, I'm showing the analysis of cancelled and delayed flights.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Files
 1. [Airline_Exploration.ipynb]: Data exploration with data visualization
