@@ -27,7 +27,7 @@ Also, a flight is considered delayed when its arrival delay is longer than 15 mi
 
 # Key Insights for Presentation
 
-In the presentation, I'm showing the analysis of cancelled and delayed flights.
+In the presentation, I'm showing the analysis of cancelled and delayed airlines.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Files
